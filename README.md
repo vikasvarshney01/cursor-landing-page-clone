@@ -39,7 +39,8 @@ cursor-landing-page/
 ## 📸 Preview
 
 You can view the live version here:  
-👉 **Live Demo:** _Add your deployed link here (GitHub Pages / Netlify)_
+👉 **Live Demo:** 
+https://vikasvarshney01.github.io/cursor-landing-page-clone/
 
 ---
 
